@@ -544,6 +544,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.grow {
+  flex-grow: 1;
+}
+
 .text-9xl {
   font-size: 8rem;
   line-height: 1;
